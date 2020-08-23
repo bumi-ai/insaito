@@ -1,0 +1,3 @@
+include ':insaitolibrary'
+include ':app'
+rootProject.name = "Insaito"
